@@ -26,3 +26,8 @@ p {
     border-radius: 80px;
     border-top-left-radius: 10px;
 }
+ body {
+  background-image: url('images/Tulips\ in\ the\ birthmail\ -\ tarjeta\ de\ cumpleaños….jpg');
+  background-repeat: repeat;
+}
+
